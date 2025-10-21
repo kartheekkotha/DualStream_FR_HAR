@@ -1,4 +1,6 @@
 # Skeleton-Based Action Recognition - Dual Stream Learning of Discriminative Representations
+[![DOI](https://zenodo.org/badge/830998812.svg)](https://doi.org/10.5281/zenodo.12784331)
+
 
 This page contains the code related to the paper: [Skeleton-Based Action Recognition - Dual Stream Learning of Discriminative Representations] accepted in CVIP 2024
 
